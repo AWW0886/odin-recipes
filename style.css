@@ -1,0 +1,29 @@
+* {
+    line-height: 1.5;
+    width: 600px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.recipe-card {
+    border: 4px solid darkgreen;
+    text-align: left;
+}
+
+.recipe-card h3 {
+    color: darkgreen;
+    text-align: center;
+}
